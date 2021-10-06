@@ -14,6 +14,5 @@ Include C++ and Python implementations of classic computer-vision tasks.
 - The source code would be provided through link.
 
 ### (1006) HW1: Digital Image Processing Functions: Reading and Point Operation
-* C++: [Github Link](https://github.com/Ratherman/Computer-Vision/tree/main/HW1_C%2B%2B)
-* Python: [Google Colab Link](https://colab.research.google.com/drive/1Jcq57nEO8Hexe2GEh5QzkVGYV45Oj8Gz#scrollTo=DEN1SdLgF1vm)
-
+* C++: [Click to see src code](https://github.com/Ratherman/Computer-Vision/tree/main/HW1_C%2B%2B)
+* Python: [Click to see src code](https://colab.research.google.com/drive/1Jcq57nEO8Hexe2GEh5QzkVGYV45Oj8Gz#scrollTo=DEN1SdLgF1vm)
