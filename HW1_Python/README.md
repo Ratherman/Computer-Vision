@@ -4,3 +4,6 @@
 * Step 3: `conda install jupyter notebook`
 * Step 4: `pip install opencv-python` 
 * Step 5: `jupyter notebook`
+
+# Google Colab Link:
+* https://colab.research.google.com/drive/1Jcq57nEO8Hexe2GEh5QzkVGYV45Oj8Gz#scrollTo=DEN1SdLgF1vm

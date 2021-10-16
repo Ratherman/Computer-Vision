@@ -16,7 +16,7 @@ Include C++ and Python implementations of classic computer-vision tasks.
 
 ## Guide
 ### How to install GCC and G++ Compiler on Ubuntu 20.04 LTS (vscode)
-* ()Step 1: `sudo apt update`
+* Step 1: `sudo apt update`
 * Step 2: `sudo apt install gcc g++`
 * Step 3: `sudo apt install build-essential`
 * Step 4: `gcc --version`
