@@ -1,9 +1,9 @@
 ## Highly suggested to check the report for better understanding.
-* [Report Link]()
+* [Report Link](https://github.com/Ratherman/Computer-Vision/tree/main/Report)
 
 # Here are 3 Methods to run the code:
 ## 1st Method: Run main.py
-* Step 1: Follow the instructions of [**Setup Env**]().
+* Step 1: Follow the instructions of [**Setup Env**](https://github.com/Ratherman/Computer-Vision/tree/main/HW1_Python#setup-env).
 * Step 2: Clone this project by using the following command.
 ```
 git clone https://github.com/Ratherman/Computer-Vision
