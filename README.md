@@ -5,6 +5,8 @@
 
 Include Python and C++ implementations of classic computer-vision tasks.
 
+### HW4: Image Compression
+
 ### HW3: Frequency Analysis and Restoration
 * C++: [Click to see src code]()
 * Python: [Click to see and run the program on Google Colab]()
